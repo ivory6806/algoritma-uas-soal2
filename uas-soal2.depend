@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1767898701 source:c:\umby algoritma\uas-soal2\main.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+
+1767479572 source:c:\umby algoritma\uas-soal2\biodata.c
+
+1767489282 source:c:\umby algoritma\uas-soal2\targetkhs.c
+
+1767492194 source:c:\umby algoritma\uas-soal2\biodatakelompok.c
+
+1767489278 source:c:\umby algoritma\uas-soal2\biodatakhs.c
+
+1768118455 source:c:\umby algoritma\uas-soal2\inputbiodatakhs.c
+	"main.h"
+
+1768118776 c:\umby algoritma\uas-soal2\main.h
+	<stdio.h>
+
+1768100299 source:c:\umby algoritma\uas-soal2\inputmatkul.c
+	"main.h"
+
+1768112546 source:c:\umby algoritma\uas-soal2\hitungips.c
+	"main.h"
+
+1768117638 source:c:\umby algoritma\uas-soal2\inputnilai.c
+	"main.h"
+
+1768117831 source:c:\umby algoritma\uas-soal2\printkhs.c
+	"main.h"
+
