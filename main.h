@@ -24,9 +24,9 @@ struct khs{
 
 struct biodatakhs inputBiodataKHS();
 void biodatakelompok();
-void inputMatkul(struct khs mk[], int n);
-void inputNilai(struct khs mk[], int n);
-void hitungIPS(struct khs mk[], int n);
+int inputMatkul(struct khs mk[], int n);
+int inputNilai(struct khs mk[], int n);
+int hitungIPS(struct khs mk[], int n);
 void tampilkanKHS(struct biodatakhs mhs, struct khs mk[], int n);
 
 #endif // MAIN_H_INCLUDED

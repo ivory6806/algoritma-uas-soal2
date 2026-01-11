@@ -1,6 +1,6 @@
 #include "main.h"
 
-void inputMatkul(struct khs mk[], int n){
+int inputMatkul(struct khs mk[], int n){
     printf("\n===== INPUT MATA KULIAH =====\n");
     for(int i=0;i<n;i++){
         printf("------------------\n");
