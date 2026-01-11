@@ -18,13 +18,13 @@
 1768157836 c:\umby algoritma\uas-soal2\main.h
 	<stdio.h>
 
-1768100299 source:c:\umby algoritma\uas-soal2\inputmatkul.c
+1768157835 source:c:\umby algoritma\uas-soal2\inputmatkul.c
 	"main.h"
 
-1768139544 source:c:\umby algoritma\uas-soal2\hitungips.c
+1768157835 source:c:\umby algoritma\uas-soal2\hitungips.c
 	"main.h"
 
-1768117638 source:c:\umby algoritma\uas-soal2\inputnilai.c
+1768157835 source:c:\umby algoritma\uas-soal2\inputnilai.c
 	"main.h"
 
 1768117831 source:c:\umby algoritma\uas-soal2\printkhs.c
